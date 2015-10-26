@@ -2,6 +2,7 @@
 docs/
 example/
 logs/
+configsets/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
